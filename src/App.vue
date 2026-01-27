@@ -1,13 +1,13 @@
 <template>
-  <div>
-    <div class="bg-glow"></div>
-    
-    <Navigation />
-    
-    <router-view />
+    <div>
+        <div class="bg-glow"></div>
+        
+        <Navigation />
+        
+        <router-view />
 
-    <Footer />
-  </div>
+        <Footer />
+    </div>
 </template>
 
 <script>
